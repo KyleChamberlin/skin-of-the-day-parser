@@ -1,4 +1,4 @@
 skin-of-the-day
 ===============
 
-currently just a set of scripts for processing the data from skin-of-the-day
+[![Build Status](https://travis-ci.org/KentCommunications/skin-of-the-day-parser.png)](https://travis-ci.org/KentCommunications/skin-of-the-day-parser)
